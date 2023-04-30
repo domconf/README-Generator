@@ -8,6 +8,8 @@ The goal of this challenge was to create functions using JavaScript to generate 
 ## Usage
 Attached below is a link to a video showing how the code is used.
 
+https://drive.google.com/file/d/1mi9rkMO_uoKVWtAMD5MU8hcWBxdRzoAJ/view
+
 ## List of Technologies
 - Javascript
 - - node.js
